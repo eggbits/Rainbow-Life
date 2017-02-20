@@ -2,5 +2,6 @@ The rainbow have below colors
 
 voilet
 indigo
+brown
 green
 yellow
